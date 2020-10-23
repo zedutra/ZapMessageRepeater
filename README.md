@@ -7,8 +7,3 @@ ZMR é um script desenvolvido em Python com a biblioteca Selenium, que permite a
 1. Faça o download do código com o comando **git clone https://github.com/zedutra/ZapMessageRepeater.git**
 2. Instale a biblioteca selenium, use o comando **pip install -U selenium**
 3. Execute o arquivo **whatsapp.py**
-
-## Autor
-
-| [<sub>@zedutra</sub>](https://github.com/zedutra) |
-| :----------------------------------------------------------------------------------------------------------------------------: |
