@@ -10,5 +10,5 @@ ZMR é um script desenvolvido em Python com a biblioteca Selenium, que permite a
 
 ## Autor
 
-| <sub>@zedutra</sub>](https://github.com/zedutra) |
+| [<sub>@zedutra</sub>](https://github.com/zedutra) |
 | :----------------------------------------------------------------------------------------------------------------------------: |
